@@ -1,7 +1,9 @@
-print "I will count my chickens:"
+# Tells me what will be done
+print "I will now count my chickens:"
 
+# prints Hens and calculates with division and addition
 print "Hens", 25 + 30 / 6
-print "Roosters", 100 - 25 * 8 % 4
+print "Roosters", 100 - 25 * 3 % 4
 
 print "Now I will count the eggs:"
 
