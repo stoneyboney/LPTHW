@@ -10,7 +10,7 @@ hair = 'Brown'
 
 print "Let's talk about %s." % name
 print "He's %d inches tall." % height
-print " He's %d centimeters tall." % metric_height
+print "He's %d centimeters tall." % metric_height
 print "He's %d pounds heavy." % weight
 print "He's %r kg heavy." % metric_weight
 print "Actually that's not too heavy." 
